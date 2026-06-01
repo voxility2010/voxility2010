@@ -30,7 +30,15 @@ AI/ML Engineer focused on Computer Vision and Applied NLP, building production-g
 
 💬 Ask Me About
 
-Python · Machine Learning · Computer Vision · NLP · Explainable AI · Data Processing · Production ML Systems
+💬 Ask Me About
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FFD500?style=flat&logo=huggingface&logoColor=black)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-009688?style=flat&logo=shapley&logoColor=white)
+![Data Processing](https://img.shields.io/badge/Data%20Processing-150458?style=flat&logo=pandas&logoColor=white)
+![Production ML](https://img.shields.io/badge/Production%20ML%20Systems-FF6F00?style=flat&logo=mlflow&logoColor=white)
 
 📫 How to Reach Me
 
