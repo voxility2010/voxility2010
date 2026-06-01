@@ -30,27 +30,36 @@ AI/ML Engineer focused on Computer Vision and Applied NLP, building production-g
 
 💬 Ask Me About
 
-Python · SQL · C · Machine Learning · Computer Vision · NLP · Explainable AI (XAI) · LLM Pipelines · TensorFlow · Transformers · OpenCV · Flask · Data Processing · Production ML Systems
+Python · Machine Learning · Computer Vision · NLP · Explainable AI · Data Processing · Production ML Systems
 
 📫 How to Reach Me
 
-* Email: vardhakathuria@gmail.com
-* GitHub: [github.com/voxility2010](https://github.com/voxility2010)
-* Portfolio: [portfolio-alpha-one-17.vercel.app](http://portfolio-alpha-one-17.vercel.app)
+![Email](https://img.shields.io/badge/Email-vardhakathuria@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Vardha%20Kathuria-0077B5?style=flat&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-voxility2010-181717?style=flat&logo=github&logoColor=white)
+![Phone](https://img.shields.io/badge/Phone-%2B91%20980%20143%208492-25D366?style=flat&logo=whatsapp&logoColor=white)
 
 🛠️ Tech Stack
 
-**Languages:** Python, SQL, C, Java
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-**ML/AI:** Supervised Learning, NLP, Computer Vision, Explainable AI (XAI), Recommendation Systems, LLM Pipelines
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-**Libraries:** Pandas, NumPy, scikit-learn, TensorFlow, Transformers, XGBoost, SHAP, LIME
+![Transformers](https://img.shields.io/badge/Transformers-FFD500?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-**Computer Vision:** OpenCV, dlib, YOLO
-
-**Tools & Infrastructure:** PyMuPDF, Flask, MySQL, Git, GitHub, Jupyter, Tkinter, Google Colab
-
-**Concepts:** Document Processing, Text Extraction, Chunking & Segmentation, Data Preprocessing, Model Interpretability
+![XGBoost](https://img.shields.io/badge/XGBoost-FA8900?style=flat&logo=xgboost&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-009688?style=flat&logo=shapley&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 📜 Certificates
 
