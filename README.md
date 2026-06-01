@@ -37,7 +37,6 @@ Python · Machine Learning · Computer Vision · NLP · Explainable AI · Data P
 ![Email](https://img.shields.io/badge/Email-vardhakathuria@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Vardha%20Kathuria-0077B5?style=flat&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-voxility2010-181717?style=flat&logo=github&logoColor=white)
-![Phone](https://img.shields.io/badge/Phone-%2B91%20980%20143%208492-25D366?style=flat&logo=whatsapp&logoColor=white)
 
 🛠️ Tech Stack
 
