@@ -35,7 +35,6 @@ Python · SQL · C · Machine Learning · Computer Vision · NLP · Explainable 
 📫 How to Reach Me
 
 * Email: vardhakathuria@gmail.com
-* Phone: +91 980 143 8492
 * GitHub: [github.com/voxility2010](https://github.com/voxility2010)
 * Portfolio: [portfolio-alpha-one-17.vercel.app](http://portfolio-alpha-one-17.vercel.app)
 
