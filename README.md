@@ -1,4 +1,4 @@
-Hi there, I'm Vardha Kathuria 👋
+## **Hi there, I'm Vardha Kathuria** 👋
 
 AI/ML Engineer focused on Computer Vision and Applied NLP, building production-grade intelligent systems. Experienced in deploying end-to-end ML pipelines with measurable real-world impact and a passion for Explainable AI.
 
